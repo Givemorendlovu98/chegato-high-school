@@ -8,15 +8,18 @@ import NewsSection from "./components/home/NewsSection";
 import Footer from "./components/layout/Footer";
 import AdmissionCTA from "./components/home/AdmissionCTA";
 import Testimonials from "./components/home/Testimonials";
+import TopBar from "@/app/components/home/TopBar";
 import AcademicPrograms from "./components/home/AcademicPrograms";
 
 export default function Home() {
   return (
     <main>
+      <TopBar/>
       <Navbar />
       <HeroSection />
       <Statistics />
       <WhyChooseUs />
+      <TopBar/>
       <PrincipalMessage />
       <Testimonials />
       <AcademicPrograms />
