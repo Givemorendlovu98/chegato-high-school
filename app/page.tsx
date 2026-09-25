@@ -19,7 +19,6 @@ export default function Home() {
       <HeroSection />
       <Statistics />
       <WhyChooseUs />
-      <TopBar/>
       <PrincipalMessage />
       <Testimonials />
       <AcademicPrograms />
