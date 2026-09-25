@@ -111,7 +111,7 @@ export default function Footer() {
                 <FaFacebook size={18} />
               </a>
               <a 
-                href="https://instagram.com/chegatohigh" 
+                href="https://instagram.com/" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="w-9 h-9 rounded-xl bg-slate-900 border border-slate-800 text-slate-400 hover:text-amber-400 hover:border-amber-400/40 flex items-center justify-center transition-all"
